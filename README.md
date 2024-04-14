@@ -39,7 +39,10 @@ The dataset began as a comprehensive Excel file containing daily counts of new c
 The SQL views created are utilized to build an interactive dashboard in Tableau, providing a visual representation of the pandemic's data. This dashboard allows users to quickly grasp complex information through charts and graphs.
 
 **Tableau Dashboard Image Placeholder**
-!Tableau Dashboard
+![Dashboard](https://github.com/naveenhmg1619/Covid19-Data-Analysis/assets/119645691/288c94ad-0b70-4513-98b2-396a16af7d3a)
+
+[**Link to Tableau Public Dashboard**](https://public.tableau.com/views/CovidCaseTableauAnalysis/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+View the Tableau Dashboard on Tableau Public
 
 ## Conclusion
 The SQL queries and views created in this project provide a robust framework for analyzing the COVID-19 dataset. The insights gained can help in understanding the pandemic's trajectory and evaluating the response efforts. The Tableau dashboard further enhances the ability to visualize and interpret the data effectively.
